@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="68292" started-at="2019-07-19T11:56:00Z" finished-at="2019-07-19T11:57:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="68292" started-at="2019-07-19T11:56:00Z" finished-at="2019-07-19T11:57:08Z">
+      <class name="Automation.Regression">
+        <test-method status="PASS" signature="AVS()[pri:0, instance:Automation.Regression@2a5ca609]" name="AVS" duration-ms="68257" started-at="2019-07-19T17:26:00Z" finished-at="2019-07-19T17:27:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AVS -->
+      </class> <!-- Automation.Regression -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
